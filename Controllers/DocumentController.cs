@@ -49,6 +49,14 @@ namespace DocumentAPI.Controllers
 			}
 		}
 
+		// ✅ STATS
+		[HttpGet("stats/total")]
+		public async Task<IActionResult> GetTotalCount()
+		{
+			var total = await _context.Documents.CountAsync();
+			return Ok(new { total });
+		}
+
 		// ✅ DOWNLOAD
 		[HttpGet("{id}/download")]
 		public async Task<IActionResult> Download(int id)
