@@ -1,0 +1,513 @@
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\appsettings.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.staticwebassets.endpoints.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.exe
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.deps.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.runtimeconfig.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.pdb
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.csproj.AssemblyReference.cache
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.AssemblyInfoInputs.cache
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.AssemblyInfo.cs
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.csproj.CoreCompileInputs.cache
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\scopedcss\bundle\DocumentAPI.styles.css
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\Document.471FE814.Up2Date
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\refint\DocumentAPI.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.pdb
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.genruntimeconfig.cache
+D:\Web Projects\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\ref\DocumentAPI.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Web Projects\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\appsettings.json
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.staticwebassets.endpoints.json
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.exe
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.deps.json
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.runtimeconfig.json
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.pdb
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Humanizer.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.ClientModel.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Text.Json.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\API\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.csproj.AssemblyReference.cache
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.AssemblyInfoInputs.cache
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.AssemblyInfo.cs
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.csproj.CoreCompileInputs.cache
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\scopedcss\bundle\DocumentAPI.styles.css
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\Document.471FE814.Up2Date
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.dll
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\refint\DocumentAPI.dll
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.pdb
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.genruntimeconfig.cache
+E:\API\DocumentAPI\DocumentAPI\obj\Debug\net8.0\ref\DocumentAPI.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\appsettings.json
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.staticwebassets.endpoints.json
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.exe
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.deps.json
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.runtimeconfig.json
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\DocumentAPI.pdb
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Humanizer.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Text.Json.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\DocumentAPI\DocumentAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.csproj.AssemblyReference.cache
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.AssemblyInfoInputs.cache
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.AssemblyInfo.cs
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.csproj.CoreCompileInputs.cache
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\scopedcss\bundle\DocumentAPI.styles.css
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\Document.471FE814.Up2Date
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.dll
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\refint\DocumentAPI.dll
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.pdb
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\DocumentAPI.genruntimeconfig.cache
+D:\DocumentAPI\DocumentAPI\obj\Debug\net8.0\ref\DocumentAPI.dll
