@@ -50,6 +50,32 @@ namespace DocumentAPI.Controllers
 			return Ok(new { total });
 		}
 
+		// GET: api/Document/stats/uploads-overview
+		[HttpGet("stats/uploads-overview")]
+		public async Task<IActionResult> GetUploadsOverview()
+		{
+			var uploads = await _context.Documents
+				.GroupBy(d => d.CreatedDate.Date)
+				.Select(g => new { date = g.Key, count = g.Count() })
+				.OrderBy(x => x.date)
+				.ToListAsync();
+
+			return Ok(uploads);
+		}
+
+		// GET: api/Document/stats/file-types
+		[HttpGet("stats/file-types")]
+		public async Task<IActionResult> GetFileTypes()
+		{
+			var fileTypes = await _context.Documents
+				.GroupBy(d => d.FileType)
+				.Select(g => new { type = g.Key, count = g.Count() })
+				.OrderByDescending(x => x.count)
+				.ToListAsync();
+
+			return Ok(fileTypes);
+		}
+
 		// GET: api/Document/search/{query}
 		[HttpGet("search/{query}")]
 		public async Task<ActionResult<IEnumerable<Documents>>> SearchDocuments(string query)
