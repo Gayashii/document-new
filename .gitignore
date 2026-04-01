@@ -1,0 +1,32 @@
+## Build outputs
+bin/
+obj/
+
+## Visual Studio / Rider
+.vs/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+.idea/
+
+## NuGet
+*.nupkg
+packages/
+!**/packages/build/
+
+## ASP.NET Core
+appsettings.*.json
+!appsettings.json
+!appsettings.Development.json
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+logs/
+
+## Publish output
+publish/
