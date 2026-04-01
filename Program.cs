@@ -47,11 +47,13 @@ builder.Services.AddDbContext<DocumentDbContext>(options =>
 	options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // CORS
+var allowedOrigins = builder.Configuration.GetSection("AllowedOrigins").Get<string[]>()
+	?? ["http://localhost:4200"];
 builder.Services.AddCors(options =>
 {
 	options.AddPolicy("AllowAngular",
 		policy => policy
-			.WithOrigins("http://localhost:4200")
+			.WithOrigins(allowedOrigins)
 			.AllowAnyMethod()
 			.AllowAnyHeader()
 			.AllowCredentials());
